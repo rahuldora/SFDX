@@ -100,6 +100,11 @@
         <default>false</default>
         <label>Savings</label>
     </customValue>
+    <customValue>
+        <fullName>House Rent</fullName>
+        <default>false</default>
+        <label>House Rent</label>
+    </customValue>
     <description>Picklist values for the category</description>
     <masterLabel>Category</masterLabel>
     <sorted>false</sorted>
