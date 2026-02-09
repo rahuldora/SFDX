@@ -11,24 +11,9 @@
         <label>Cash</label>
     </customValue>
     <customValue>
-        <fullName>Flipkart Axis Credit Card</fullName>
+        <fullName>Credit Card</fullName>
         <default>false</default>
-        <label>Flipkart Axis Credit Card</label>
-    </customValue>
-    <customValue>
-        <fullName>Tata Neu Credit Card</fullName>
-        <default>false</default>
-        <label>Tata Neu Credit Card</label>
-    </customValue>
-    <customValue>
-        <fullName>Scapia Credit Card</fullName>
-        <default>false</default>
-        <label>Scapia Credit Card</label>
-    </customValue>
-    <customValue>
-        <fullName>Diners Privilege Credit Card</fullName>
-        <default>false</default>
-        <label>Diners Privilege Credit Card</label>
+        <label>Credit Card</label>
     </customValue>
     <description>Picklist values for the type of Payment methods used</description>
     <masterLabel>Payment Methods</masterLabel>
