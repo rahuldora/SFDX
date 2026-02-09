@@ -66,9 +66,9 @@
         <label>Groceries</label>
     </customValue>
     <customValue>
-        <fullName>Electricity Bill</fullName>
+        <fullName>House_Bills</fullName>
         <default>false</default>
-        <label>Electricity Bill</label>
+        <label>House Bills</label>
     </customValue>
     <customValue>
         <fullName>Misc</fullName>
@@ -99,11 +99,6 @@
         <fullName>Savings</fullName>
         <default>false</default>
         <label>Savings</label>
-    </customValue>
-    <customValue>
-        <fullName>House Rent</fullName>
-        <default>false</default>
-        <label>House Rent</label>
     </customValue>
     <description>Picklist values for the category</description>
     <masterLabel>Category</masterLabel>
